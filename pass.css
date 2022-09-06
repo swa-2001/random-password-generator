@@ -1,0 +1,26 @@
+table,tr,th{
+    border-collapse: collapse;
+            border: 1px solid black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: white;
+    padding-top: 30px;
+    padding: 30px;
+}
+body{
+    /*background-color: blueviolet;*/
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+input{
+    padding: 20px;
+    height: 50px;
+    width: 100px;
+    border-radius: 6px;
+}
